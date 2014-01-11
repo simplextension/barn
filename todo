@@ -1,0 +1,34 @@
+32.how to make a pop-up window using html/css ? 
+33.achieve some goals using BASH:
+    a. How to list files matching or not matching a pattern ?
+    b. How to delete files as above ? How to delete files that are listed ?
+    c. How to copy files as above ? How to copy files that are listed ?
+    d. How to copy multiple files in the same path using 'cp' when you're in another path?
+
+28.write a 'reminder' tool using python (to relax your eyes)
+
+note: in a module, a function can use variables defined before, but a variable, say a procedure pointer, is not able to points to any function defined after 'contains'.
+
+xxx.how to change hotkeys in shell prompt, i.e., hotkeys like 'ctrl-f','ctrl-a','ctrl-e'
+
+done:
+ctrl-a, ctrl-x: add, subtract [count] in number or alphabet
+13.forall in FORTRAN: forall(i=1:3,j=1:3,i<j) end forall
+16.FORTRAN real*8 inaccurate after first 8 precision
+17.difference between /media &  /run/media ? what is /run doing?
+19.how to get a block of code commented in VIM?
+21.FORTRAN:elemental functions can NOT be pointed by a procedure pointer ?
+20.FORTRAN:how to assign initial value to a derived type variable in a MODULE?
+24.exact solution and DG plot
+10.proc(Func) as a parameter
+11.how to compute min f(x) in DG method? LAPACK??? No.
+25.LAPACK
+22.print a matrix in a matrix form in fortran
+23.CFL condition in DG, Burgers' Eq.
+18.what is tmpfs ?
+29.defaut brightness of screen in fedora: onesl.com
+30.bibtex: how to distinguish when there r more than 3 authors: use 'and'
+26.JabRef ?
+31.\maketitle: how to remove pagenumber 1 at the foot: use \thisempty after \make
+
+!@#$%^&*()~~~~~~~^_^
